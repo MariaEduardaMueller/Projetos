@@ -13,7 +13,7 @@ Aplicação de conhecimentos em Python, SQL, Spark, Docker e Git no desenvolvime
   - Criação de um dashboard interativo utilizando AWS QuickSight.  
 
 Escopo do Projeto Desenvolvido no Programa: <br>
-<img src="Arquivos/ProjetoProgramadeBolsas.png" alt="Foto" width=600 height=300> <br>
+<img src="Arquivos/ProjetoProgramadeBolsas.png" alt="Foto" width=650 height=300> <br>
 
 Dashboard criado no final: <br>
 [Dashboard](Arquivos/DashboardQuickSight.pdf)
